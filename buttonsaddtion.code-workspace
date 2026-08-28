@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../TaskPad/buttons/buttonsaddtion"
+		},
+		{
+			"path": "../../TaskPad/tp6"
+		},
+		{
+			"path": "../../TaskPad/tp63"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../dztpmobile"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "buttonsaddtion"
+	}
+}
